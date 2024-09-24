@@ -36,18 +36,3 @@ if __name__ == "__main__":
     output = my_solution.maxSubArray(nums)
     print(output)
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
